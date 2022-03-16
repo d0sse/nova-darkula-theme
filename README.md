@@ -2,7 +2,7 @@
 
 A dark theme based on Darcula JetBrains IDEs
 
-![Screenshot](images/extension/screenshot.png)
+![Screenshot](https://github.com/d0sse/nova-darkula-theme/blob/main/Images/extension/screenshot.png)
 
 ## ⚙️ Install
 
