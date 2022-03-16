@@ -1,4 +1,4 @@
-## Version 1.0.4
+## Version 1.0.5
 
 1. Change icon and Readme
 2. Yellow now is more bright 🌞
