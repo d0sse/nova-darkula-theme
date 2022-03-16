@@ -1,3 +1,7 @@
+## Version 1.0.2
+
+Fixes
+
 ## Version 1.0.1
 
 1. Change icon and Readme
