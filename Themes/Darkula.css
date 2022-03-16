@@ -164,13 +164,13 @@ identifier.constant {
   color: #9876aa;
 }
 identifier.function {
-  color: #e0a651;
+  color: #fbb447;
 }
 identifier.method {
   color: #9876aa;
 }
 identifier.property {
-  /* color: #e0a651; */
+  /* color: #fbb447; */
 }
 identifier.key {
   color: #759254;
@@ -179,7 +179,7 @@ identifier.argument {
   color: #ffb64e;
 }
 identifier.decorator {
-  color: #e0a651;
+  color: #fbb447;
 }
 
 /* Strings */
@@ -214,7 +214,7 @@ markup.line {
   color: #759251;
 }
 markup.bold {
-  color: #ffb64e;
+  color: #fbb447;
   font-weight: bold;
 }
 markup.italic {
@@ -231,7 +231,7 @@ markup.link {
   color: #cc7832;
 }
 markup.code {
-  color: #e0a651;
+  color: #fbb447;
 }
 markup.block.quote {
   color: #759254;
@@ -252,7 +252,7 @@ definition.struct struct.name {
 definition.property property.name,
 definition.function function.name,
 definition.method method.name {
-  color: #e0a651;
+  color: #fbb447;
 }
 
 /* Tags */
@@ -263,7 +263,7 @@ tag.framework {
   color: #cc7832;
 }
 tag.attribute.name {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 tag.attribute.value {
@@ -283,19 +283,19 @@ style.selector.element {
   font-weight: bold;
 }
 style.selector.identifier.id {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 style.selector.identifier.class {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 style.selector.pseudoclass {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 style.selector.pseudoelement {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 style.attribute.name {
@@ -379,7 +379,7 @@ html.tag.name {
   color: #cc7832;
 }
 html.tag.attribute.name {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 html.tag.attribute.value {
@@ -397,7 +397,7 @@ xml.tag.name {
   color: #cc7832;
 }
 xml.tag.attribute.name {
-  color: #e0a651;
+  color: #fbb447;
   font-style: italic;
 }
 xml.tag.attribute.value {
@@ -440,7 +440,7 @@ terminal.red {
   color: #60a160;
 }
 terminal.green {
-  color: #e0a651;
+  color: #fbb447;
 }
 terminal.yellow {
   color: #759251;
