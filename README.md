@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to Darkula
 
-A dark theme based on Darcula JetBrains IDEs
+A dark theme based on Darcula JetBrains IDEs (IntelliJ, PhpStorm...)
 
-![Screenshot](Images/extension/screenshot.png)
+![Screenshot](./Images/extension/screenshot.png)
 
 ## ⚙️ Install
 
@@ -14,6 +14,6 @@ A dark theme based on Darcula JetBrains IDEs
 
 ## Credits
 
-Darkula is based on Original Darcula by
+Darkula is based on Original Darcula by [Jetbrains][https://www.jetbrains.com/]
 
 ## ☕️ [Buy Me a Espresso!](https://www.paypal.com/donate/?hosted_button_id=H2E76AKPVC39L)
