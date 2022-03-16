@@ -14,6 +14,6 @@ A dark theme based on Darcula JetBrains IDEs (IntelliJ, PhpStorm...)
 
 ## Credits
 
-Darkula is based on Original Darcula by [Jetbrains][https://www.jetbrains.com/]
+Darkula is based on Original Darcula by [Jetbrains](https://www.jetbrains.com/)
 
 ## ☕️ [Buy Me a Espresso!](https://www.paypal.com/donate/?hosted_button_id=H2E76AKPVC39L)
