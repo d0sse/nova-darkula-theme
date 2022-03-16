@@ -2,7 +2,7 @@
 
 A dark theme based on Darcula JetBrains IDEs
 
-![Screenshot](/images/extension/screenshot.png)
+![Screenshot](images/extension/screenshot.png)
 
 ## ⚙️ Install
 
