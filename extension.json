@@ -1,9 +1,9 @@
 {
   "identifier": "d0sse.Darkula",
-  "name": "Nova Darkula Theme",
+  "name": "Nova Darkula Theme (Darcula)",
   "organization": "d0sse",
-  "description": "Dark theme for Nova based on IntelliJ JetBrains IDE",
-  "version": "1.0.7",
+  "description": "Dark theme for Nova based on IntelliJ JetBrains IDE Darcula",
+  "version": "1.0.8",
   "categories": ["themes"],
   "license": "MIT",
   "repository": "https://github.com/d0sse/nova-darkula-theme",
