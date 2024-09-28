@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to Darkula
+## 👋 Hello! Welcome to Darkula theme!
 
 A dark theme based on Darcula JetBrains IDEs (Idea, PhpStorm...)
 
