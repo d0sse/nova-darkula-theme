@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to Darkula theme!
+## 👋 Hello! Welcome to Darkula theme
 
 A dark theme based on Darcula JetBrains IDEs (Idea, PhpStorm...)
 
@@ -15,4 +15,3 @@ A dark theme based on Darcula JetBrains IDEs (Idea, PhpStorm...)
 ## Credits
 
 Darkula is based on Original Darcula by [Jetbrains](https://www.jetbrains.com/)
-
