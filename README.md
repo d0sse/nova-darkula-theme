@@ -1,5 +1,7 @@
 # 👋 Hello! Welcome to Darkula theme
 
+## For nova editor
+
 A dark theme based on Darcula JetBrains IDEs (Idea, PhpStorm...)
 
 ![Screenshot](https://github.com/d0sse/nova-darkula-theme/blob/main/Images/extension/screenshot.png?raw=true).
